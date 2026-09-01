@@ -49,7 +49,6 @@ print("Word Frequencies:")
 print("word_counts)"
 print("DEV3 code is modified and corrected")
 
-######################DEV4###############################3
 # Python Program to convert temperature in celsius to fahrenheit
 
 # change this value for a different result
