@@ -1,11 +1,4 @@
-#########DEV1##########33
 
-
-# Convert input strings to integers and add them
-sum_result = int(num1) + int(num2)
-
-# Print the result using an f-string
-print(f"The sum of {num1} and {num2} is {sum_result}")
 
 ###################DEV2###############3
 import random
