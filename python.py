@@ -30,31 +30,9 @@ while True:
         print(f"Good job! You guessed my number in {attempts} attempts!")
         break  # Exit the loop
 
-#######################DEV3#######################3333
-text = "apple banana apple cherry banana apple"
 
-# Split the string into a list of individual words
-words = text.split()
 
-# Create an empty dictionary to store counts
-word_counts = {}
 
-for word in words:
-    if word in word_counts:
-        word_counts[word] += 1  # Increment count if word exists
-    else:
-        word_counts[word] = 1   # Initialize count to 1 if it is new
-
-print("Word Frequencies:")
-print("word_counts)"
-print("DEV3 code is modified and corrected")
-
-# Python Program to convert temperature in celsius to fahrenheit
-
-# change this value for a different result
-celsius = 37.5
-
-# calculate fahrenheit
 fahrenheit = (celsius * 1.8) + 32
 print('%0.1f degree Celsius is equal to %0.1f degree Fahrenheit' %(celsius,fahrenheit))
 
