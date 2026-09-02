@@ -34,6 +34,11 @@ class Car {
 public class MainApp {
     public static void main(String[] args) {
         // Create an object of the Car class
+
+// Main class to run the program
+public class MainApp {
+    public static void main(String[] args) {
+        // Create an object of the Car class
         Car myCar = new Car("Toyota", 2024);
         myCar.displayDetails();
     }
