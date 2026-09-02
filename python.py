@@ -28,7 +28,7 @@ while True:
         print("Your guess is too high.")
     else:
         print(f"Good job! You guessed my number in {attempts} attempts!")
-        break  # Exit the loop
+      
 
 
 
