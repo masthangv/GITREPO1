@@ -1,7 +1,5 @@
 #########DEV1##########33
-# Take numbers from the user
-num1 = input("Enter first number: ")
-num2 = input("Enter second number: ")
+
 
 # Convert input strings to integers and add them
 sum_result = int(num1) + int(num2)
